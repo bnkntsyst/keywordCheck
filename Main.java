@@ -11,7 +11,7 @@ public class KeywordScanner {
         // Path to txt file
         String filePath = "file.txt"; 
         
-        // Die 4 keywords
+        // The 4 keywords
         String[] keywords = {"<TAG>", "<MAP>", "<CASE>", "<LOAD>"};
 
         try {
@@ -41,5 +41,6 @@ public class KeywordScanner {
     }
 
 }
+
 
 
